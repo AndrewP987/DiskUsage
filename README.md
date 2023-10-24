@@ -56,10 +56,6 @@ To build the project, run the following command:
 dotnet build
 ```
 
-### Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
-
 ### License
 
 This project is licensed under the [MIT License](LICENSE).
