@@ -1,0 +1,6 @@
+# Ignore all binary files in bin and obj directories
+bin/
+obj/
+
+# Include only du.dll files in src/bin subdirectories
+!**.du.dll
